@@ -13,12 +13,6 @@ const MONGODB_URI = process.env.MONGODB_URI;
 app.use(cors());
 app.use(express.json());
 
-app.use("/products", productsRouter);
-
-app.get("/", (req, res) => {
-  res.json({ status: "API is running" });
-});
-
 // Reuse the MongoDB connection across serverless invocations on Vercel
 let isConnected = false;
 async function connectDB() {
@@ -28,7 +22,9 @@ async function connectDB() {
   console.log("Connected to MongoDB");
 }
 
-// Middleware ensures DB is connected before handling any request (needed for Vercel)
+// Middleware ensures DB is connected before handling any request (needed for Vercel).
+// This MUST be registered before the routes below, otherwise requests reach
+// the route handlers before the connection is ready.
 app.use(async (req, res, next) => {
   try {
     await connectDB();
@@ -37,6 +33,12 @@ app.use(async (req, res, next) => {
     console.error("MongoDB connection error:", err);
     res.status(500).json({ error: "Database connection failed" });
   }
+});
+
+app.use("/products", productsRouter);
+
+app.get("/", (req, res) => {
+  res.json({ status: "API is running" });
 });
 
 // Only start a normal listening server when running locally (npm start).
