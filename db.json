@@ -1,0 +1,421 @@
+{
+  "Products": [
+    {
+      "id": "2",
+      "name": "Bluetooth Speaker",
+      "category": "Audio Devices",
+      "price": "50000",
+      "description": "Portable waterproof Bluetooth speaker with deep bass and 12hr playtime.",
+      "image": "https://images.unsplash.com/photo-1608043152269-423dbba4e7e1?w=500"
+    },
+    {
+      "id": "4",
+      "name": "Neckband Earphones",
+      "category": "Audio Devices",
+      "price": 1299,
+      "description": "Magnetic neckband Bluetooth earphones with 20hr battery life.",
+      "image": "https://images.unsplash.com/photo-1600294037681-c80b4cb5b434?w=500"
+    },
+    {
+      "id": "5",
+      "name": "Mini Bluetooth Speaker",
+      "category": "Audio Devices",
+      "price": 999,
+      "description": "Compact pocket-size speaker with clear sound and TWS pairing support.",
+      "image": "https://images.unsplash.com/photo-1545454675-3531b543be5d?w=500"
+    },
+    {
+      "id": "6",
+      "name": "Gaming Headset",
+      "category": "Audio Devices",
+      "price": 2799,
+      "description": "Wired gaming headset with mic, surround sound, and RGB lighting.",
+      "image": "https://images.unsplash.com/photo-1599669454699-248893623440?w=500"
+    },
+    {
+      "id": "7",
+      "name": "Wired Earphones",
+      "category": "Audio Devices",
+      "price": 399,
+      "description": "Budget-friendly wired earphones with in-line mic and volume control.",
+      "image": "https://images.unsplash.com/photo-1590935217281-8f102120d683?w=500"
+    },
+    {
+      "id": "8",
+      "name": "TWS Pods Pro",
+      "category": "Audio Devices",
+      "price": 2499,
+      "description": "Premium TWS earbuds with ANC, touch controls, and charging case.",
+      "image": "https://images.unsplash.com/photo-1572569511254-d8f925fe2cbb?w=500"
+    },
+    {
+      "id": "10",
+      "name": "Smart Watch",
+      "category": "Mobile Accessories",
+      "price": "5000",
+      "description": "Fitness tracking smart watch with heart rate monitor and sleep tracking.",
+      "image": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=500"
+    },
+    {
+      "id": "11",
+      "name": "Power Bank 10000mAh",
+      "category": "Mobile Accessories",
+      "price": 1499,
+      "description": "Fast charging power bank with dual USB output and LED indicator.",
+      "image": "https://images.unsplash.com/photo-1609091839311-d5365f9ff1c5?w=500"
+    },
+    {
+      "id": "12",
+      "name": "USB-C Fast Charger",
+      "category": "Mobile Accessories",
+      "price": 899,
+      "description": "20W USB-C fast charging adapter compatible with most smartphones.",
+      "image": "https://images.unsplash.com/photo-1583863788434-e58a36330cf0?w=500"
+    },
+    {
+      "id": "13",
+      "name": "Phone Ring Holder Stand",
+      "category": "Mobile Accessories",
+      "price": 249,
+      "description": "360-degree rotating ring holder for secure phone grip and stand.",
+      "image": "https://images.unsplash.com/photo-1616348436168-de43ad0db179?w=500"
+    },
+    {
+      "id": "14",
+      "name": "Wireless Charging Pad",
+      "category": "Mobile Accessories",
+      "price": 1299,
+      "description": "10W Qi wireless charging pad with LED indicator and anti-slip base.",
+      "image": "https://unsplash.com/photos/a-cell-phone-sitting-on-top-of-a-wooden-table-81vuPDvvLng"
+    },
+    {
+      "id": "15",
+      "name": "USB-C Data Cable",
+      "category": "Mobile Accessories",
+      "price": 349,
+      "description": "Durable braided USB-C cable, 1.5m, supports fast charging and data sync.",
+      "image": "https://images.unsplash.com/photo-1591290619762-9a1a1ffa6c96?w=500"
+    },
+    {
+      "id": "16",
+      "name": "Car Phone Mount",
+      "category": "Mobile Accessories",
+      "price": 599,
+      "description": "Adjustable dashboard phone mount with strong suction grip.",
+      "image": "https://images.unsplash.com/photo-1601972602237-8c79241e468b?w=500"
+    },
+    {
+      "id": "17",
+      "name": "Selfie Stick with Tripod",
+      "category": "Mobile Accessories",
+      "price": 899,
+      "description": "Bluetooth remote selfie stick with mini tripod stand for phones.",
+      "image": "https://images.unsplash.com/photo-1526628953301-3e589a6a8b74?w=500"
+    },
+    {
+      "id": "18",
+      "name": "Portable SSD 256GB",
+      "category": "Mobile Accessories",
+      "price": 4999,
+      "description": "Compact external SSD with USB-C 3.1, up to 500MB/s transfer speed.",
+      "image": "https://images.unsplash.com/photo-1531492746076-161ba9bf7ab7?w=500"
+    },
+    {
+      "id": "19",
+      "name": "Wireless Mouse",
+      "category": "Computer Accessories",
+      "price": 899,
+      "description": "Ergonomic wireless mouse with adjustable DPI and silent clicks.",
+      "image": "https://images.unsplash.com/photo-1527864550417-7fd91fc51a46?w=500"
+    },
+    {
+      "id": "20",
+      "name": "Mechanical Keyboard",
+      "category": "Computer Accessories",
+      "price": 3999,
+      "description": "RGB backlit mechanical keyboard with blue switches for gaming and typing.",
+      "image": "https://images.unsplash.com/photo-1595225476474-63038da0d6be?w=500"
+    },
+    {
+      "id": "21",
+      "name": "Webcam 1080p",
+      "category": "Computer Accessories",
+      "price": 1799,
+      "description": "Full HD webcam with built-in mic, ideal for video calls and streaming.",
+      "image": "https://images.unsplash.com/photo-1587826080692-f439065d3f9c?w=500"
+    },
+    {
+      "id": "22",
+      "name": "Laptop Cooling Pad",
+      "category": "Computer Accessories",
+      "price": 1499,
+      "description": "Dual-fan laptop cooling pad with adjustable height and USB power.",
+      "image": "https://images.unsplash.com/photo-1618410320928-25228d811631?w=500"
+    },
+    {
+      "id": "23",
+      "name": "USB Hub 4-Port",
+      "category": "Computer Accessories",
+      "price": 599,
+      "description": "Compact USB 3.0 hub with 4 ports for expanding laptop connectivity.",
+      "image": "https://images.unsplash.com/photo-1591370874773-6702e8f12fd8?w=500"
+    },
+    {
+      "id": "24",
+      "name": "Laptop Stand",
+      "category": "Computer Accessories",
+      "price": 1299,
+      "description": "Adjustable aluminum laptop stand for better posture and airflow.",
+      "image": "https://images.unsplash.com/photo-1611746872915-64382b5c76da?w=500"
+    },
+    {
+      "id": "25",
+      "name": "External Hard Drive 1TB",
+      "category": "Computer Accessories",
+      "price": 5499,
+      "discountPrice": 4509,
+      "discount": 18,
+      "description": "Portable 1TB external hard drive with USB 3.0 for fast data transfer.",
+      "image": "https://images.unsplash.com/photo-1531492746076-161ba9bf7ab7?w=500"
+    },
+    {
+      "id": "26",
+      "name": "Graphics Tablet",
+      "category": "Computer Accessories",
+      "price": 4499,
+      "discountPrice": 3374,
+      "discount": 25,
+      "description": "Digital drawing tablet with pressure-sensitive pen for artists and designers.",
+      "image": "https://images.unsplash.com/photo-1587614382346-4ec70e388b28?w=500"
+    },
+    {
+      "id": "27",
+      "name": "Monitor Light Bar",
+      "category": "Computer Accessories",
+      "price": 2199,
+      "discountPrice": 1869,
+      "discount": 15,
+      "description": "Screen-mounted LED light bar with adjustable brightness, reduces eye strain.",
+      "image": "https://images.unsplash.com/photo-1587202372775-e229f172b9d7?w=500"
+    },
+    {
+      "id": "28",
+      "name": "Cable Organizer Box",
+      "category": "Computer Accessories",
+      "price": 349,
+      "discountPrice": 314,
+      "discount": 10,
+      "description": "Desk cable management box to hide and organize power strips and wires.",
+      "image": "https://images.unsplash.com/photo-1601524909162-ae8725290836?w=500"
+    },
+    {
+      "id": "29",
+      "name": "Action Camera 4K",
+      "category": "Camera & Photography",
+      "price": 6999,
+      "discountPrice": 4899,
+      "discount": 30,
+      "description": "Waterproof 4K action camera with wide-angle lens and stabilization.",
+      "image": "https://images.unsplash.com/photo-1526170375885-4d8ecf77b99f?w=500"
+    },
+    {
+      "id": "30",
+      "name": "Mini Tripod",
+      "category": "Camera & Photography",
+      "price": 499,
+      "discountPrice": 399,
+      "discount": 20,
+      "description": "Flexible mini tripod with adjustable legs, compatible with phones and cameras.",
+      "image": "https://images.unsplash.com/photo-1617005082133-548c4dd27f35?w=500"
+    },
+    {
+      "id": "31",
+      "name": "Ring Light 10-inch",
+      "category": "Camera & Photography",
+      "price": 1899,
+      "discountPrice": 1481,
+      "discount": 22,
+      "description": "LED ring light with phone holder and tripod stand for content creation.",
+      "image": "https://images.unsplash.com/photo-1567443024551-f3e3cc2be870?w=500"
+    },
+    {
+      "id": "32",
+      "name": "Clip-On Phone Lens Kit",
+      "category": "Camera & Photography",
+      "price": 999,
+      "discountPrice": 879,
+      "discount": 12,
+      "description": "3-in-1 wide, macro, and fisheye lens kit for smartphone photography.",
+      "image": "https://images.unsplash.com/photo-1516035069371-29a1b244cc32?w=500"
+    },
+    {
+      "id": "33",
+      "name": "Gimbal Stabilizer",
+      "category": "Camera & Photography",
+      "price": 8999,
+      "discountPrice": 6479,
+      "discount": 28,
+      "description": "3-axis handheld gimbal stabilizer for smooth smartphone video recording.",
+      "image": "https://images.unsplash.com/photo-1585155770447-2f66e2a397b5?w=500"
+    },
+    {
+      "id": "34",
+      "name": "Instant Photo Printer",
+      "category": "Camera & Photography",
+      "price": 5999,
+      "discountPrice": 4979,
+      "discount": 17,
+      "description": "Portable Bluetooth photo printer, prints directly from smartphone.",
+      "image": "https://images.unsplash.com/photo-1520763185298-1b434c919102?w=500"
+    },
+    {
+      "id": "35",
+      "name": "SD Card 128GB",
+      "category": "Camera & Photography",
+      "price": 1599,
+      "discountPrice": 1471,
+      "discount": 8,
+      "description": "High-speed 128GB microSD card, ideal for cameras and drones.",
+      "image": "https://images.unsplash.com/photo-1591290619762-9a1a1ffa6c96?w=500"
+    },
+    {
+      "id": "36",
+      "name": "Mini Drone with Camera",
+      "category": "Camera & Photography",
+      "price": 7499,
+      "discountPrice": 5024,
+      "discount": 33,
+      "description": "Foldable mini drone with HD camera and one-key return feature.",
+      "image": "https://images.unsplash.com/photo-1508614999368-9260051292e5?w=500"
+    },
+    {
+      "id": "37",
+      "name": "Camera Backpack",
+      "category": "Camera & Photography",
+      "price": 2999,
+      "discountPrice": 2429,
+      "discount": 19,
+      "description": "Padded waterproof backpack designed for cameras, lenses, and accessories.",
+      "image": "https://images.unsplash.com/photo-1502920917128-1aa500764cbd?w=500"
+    },
+    {
+      "id": "38",
+      "name": "Lavalier Clip Mic",
+      "category": "Camera & Photography",
+      "price": 799,
+      "discountPrice": 687,
+      "discount": 14,
+      "description": "Wired lapel microphone for clear audio in vlogs and interviews.",
+      "image": "https://images.unsplash.com/photo-1590602847861-f357a9332bbc?w=500"
+    },
+    {
+      "id": "39",
+      "name": "Electric Kettle",
+      "category": "Home & Personal Gadgets",
+      "price": 2299,
+      "discountPrice": 1747,
+      "discount": 24,
+      "description": "1.7L stainless steel electric kettle with auto shut-off function.",
+      "image": "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=500"
+    },
+    {
+      "id": "40",
+      "name": "Digital Kitchen Scale",
+      "category": "Home & Personal Gadgets",
+      "price": 799,
+      "description": "Precision digital kitchen scale with LCD display, up to 5kg capacity.",
+      "image": "https://images.unsplash.com/photo-1591189863430-ab87e120f312?w=500"
+    },
+    {
+      "id": "41",
+      "name": "Handheld Vacuum Cleaner",
+      "category": "Home & Personal Gadgets",
+      "price": 3499,
+      "description": "Cordless handheld vacuum for quick cleanups around home and car.",
+      "image": "https://images.unsplash.com/photo-1558317374-067fb5f30001?w=500"
+    },
+    {
+      "id": "42",
+      "name": "Electric Toothbrush",
+      "category": "Home & Personal Gadgets",
+      "price": 1699,
+      "description": "Rechargeable electric toothbrush with multiple cleaning modes.",
+      "image": "https://images.unsplash.com/photo-1607613009820-a29f7bb81c04?w=500"
+    },
+    {
+      "id": "43",
+      "name": "Hair Trimmer",
+      "category": "Home & Personal Gadgets",
+      "price": 1299,
+      "description": "Cordless rechargeable hair trimmer with adjustable length settings.",
+      "image": "https://images.unsplash.com/photo-1621607512214-68297480165e?w=500"
+    },
+    {
+      "id": "44",
+      "name": "Digital Alarm Clock",
+      "category": "Home & Personal Gadgets",
+      "price": 899,
+      "description": "LED digital alarm clock with USB charging port and snooze function.",
+      "image": "https://images.unsplash.com/photo-1495364141860-b0d03eccd065?w=500"
+    },
+    {
+      "id": "45",
+      "name": "Mini Air Purifier",
+      "category": "Home & Personal Gadgets",
+      "price": 2799,
+      "description": "Compact desktop air purifier with HEPA filter for small rooms.",
+      "image": "https://images.unsplash.com/photo-1585771724684-38269d6639fd?w=500"
+    },
+    {
+      "id": "46",
+      "name": "Electric Massager",
+      "category": "Home & Personal Gadgets",
+      "price": 5999,
+      "discountPrice": 4499,
+      "discount": 25,
+      "description": "Handheld percussion massager with multiple speed settings for muscle relief.",
+      "image": "https://images.unsplash.com/photo-1600334129128-685c5582fd35?w=500"
+    },
+    {
+      "id": "47",
+      "name": "Smart Digital Thermometer",
+      "category": "Home & Personal Gadgets",
+      "price": 599,
+      "description": "Infrared non-contact thermometer with instant digital reading.",
+      "image": "https://images.unsplash.com/photo-1584017911766-d451b3d0e843?w=500"
+    },
+    {
+      "id": "48",
+      "name": "LED Desk Lamp",
+      "category": "Home & Personal Gadgets",
+      "price": 1099,
+      "description": "Touch-control LED desk lamp with adjustable brightness and USB port.",
+      "image": "https://images.unsplash.com/photo-1543198126-63c1c07d5a0f?w=500"
+    },
+    {
+      "id": "49",
+      "name": "Smart LED Bulb",
+      "category": "Smart Home Devices",
+      "price": 799,
+      "description": "WiFi-enabled color changing LED bulb, controllable via app and voice assistant.",
+      "image": "https://images.unsplash.com/photo-1550985616-10810253b84d?w=500"
+    },
+    {
+      "id": "50",
+      "name": "Smart Plug",
+      "category": "Smart Home Devices",
+      "price": 649,
+      "description": "WiFi smart plug with remote scheduling and voice control support.",
+      "image": "https://images.unsplash.com/photo-1585771724684-38269d6639fd?w=500"
+    },
+    {
+      "id": "51",
+      "name": "Arctic Breeze Tower Air Cooler",
+      "category": "Home Appliances > Cooling",
+      "price": "25000",
+      "image": "https://media.istockphoto.com/id/820247780/photo/evaporative-air-cooler-fan.jpg?s=2048x2048&w=is&k=20&c=OTOF9ZcXNMB7UjLEFJleqw_iCng2tcgR72DIAQx2P1g=",
+      "description": "Compact aur powerful personal tower air cooler jo instant thandak deta hai. 3-speed control, honeycomb cooling pads, aur 8L bade water tank ke sath - garmi ke mausam ke liye perfect solution, bedroom ya office kisi bhi jagah easily fit ho jata hai."
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
